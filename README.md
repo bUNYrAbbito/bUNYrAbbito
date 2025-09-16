@@ -1,4 +1,4 @@
-![logo](https://github.com/bUNYrAbbito/bUNYrAbbito/blob/main/Generated%20Image%20September%2016%2C%202025%20-%2012_59PM.png)
+![logo](https://github.com/bUNYrAbbito/bUNYrAbbito/blob/main/Screenshot%202025-09-16%20162325.jpg)
 
 
 <h1 align="center">Hi 👋, I'm Prasant Singh</h1>  
