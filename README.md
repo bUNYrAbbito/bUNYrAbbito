@@ -1,4 +1,4 @@
-![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png)
+![logo](https://github.com/bUNYrAbbito/bUNYrAbbito/blob/main/Generated%20Image%20September%2016%2C%202025%20-%2012_59PM.png)
 
 
 <h1 align="center">Hi 👋, I'm Prasant Singh</h1>  
