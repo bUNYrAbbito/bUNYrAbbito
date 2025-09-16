@@ -1,5 +1,4 @@
-<img align="right" alt="coding" width="100%" src="https://www.iab.com/wp-content/uploads/2024/06/legal-issues-and-business-considerations-when-using-generative-artificial-intelligence-in-digital-advertising-3.jpg">  
-<br/>
+![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png)
 
 
 <h1 align="center">Hi 👋, I'm Prasant Singh</h1>  
