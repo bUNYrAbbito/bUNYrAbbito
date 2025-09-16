@@ -1,4 +1,4 @@
-![logo]https://www.iab.com/wp-content/uploads/2024/06/legal-issues-and-business-considerations-when-using-generative-artificial-intelligence-in-digital-advertising-3.jpg)  
+<img align="right" alt="coding" width="400" src="https://www.iab.com/wp-content/uploads/2024/06/legal-issues-and-business-considerations-when-using-generative-artificial-intelligence-in-digital-advertising-3.jpg">  
 
 <h1 align="center">Hi 👋, I'm Prasant Singh</h1>  
 <h3 align="center">🚀 AI Enthusiast | 💻 Full Stack Developer | 🌐 Tech Explorer</h3>  
