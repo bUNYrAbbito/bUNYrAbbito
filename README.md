@@ -1,4 +1,6 @@
-<img align="right" alt="coding" width="400" src="https://www.iab.com/wp-content/uploads/2024/06/legal-issues-and-business-considerations-when-using-generative-artificial-intelligence-in-digital-advertising-3.jpg">  
+<img align="right" alt="coding" width="100%" src="https://www.iab.com/wp-content/uploads/2024/06/legal-issues-and-business-considerations-when-using-generative-artificial-intelligence-in-digital-advertising-3.jpg">  
+<br/>
+
 
 <h1 align="center">Hi 👋, I'm Prasant Singh</h1>  
 <h3 align="center">🚀 AI Enthusiast | 💻 Full Stack Developer | 🌐 Tech Explorer</h3>  
@@ -14,7 +16,7 @@
 - 💬 Ask me about **React, Node.js, MongoDB, Express.js, AI APIs**  
 - 📫 How to reach me **singhbunny116@gmail.com**  
 - 👨‍💻 All of my projects are available at [Portfolio](https://prashantsingh.space)  
-- 📄 Know about my experiences [Resume](#)  
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1URfvMvyzyahJU53pr4YsGEXtUlrUJ4Mp/view?usp=drive_link)  
 - ⚡ Fun fact **I debug more in my dreams than in real life 😅**  
 
 ---
